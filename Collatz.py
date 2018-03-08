@@ -1,5 +1,5 @@
 #Paula Duffy 2018-02-06
-#Collatz Conjecture
+#Collatz Conjecture - Week 3 Exercise
 
 n = int(input("Please enter an integer: "))
 
