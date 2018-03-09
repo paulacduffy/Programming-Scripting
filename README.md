@@ -3,3 +3,4 @@
 # Weeks 1 & 2 tasks file is called fibname.py
 # Week 5 task is called openfile.py
 # Week 4 task is called Euler5.py
+# Week 6 task is called factorial.py
