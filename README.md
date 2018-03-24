@@ -1,4 +1,5 @@
 # Programming-Scripting
+This repository contains weekly exercises for the subject Programming & Scripting in the Higher Diploma in Data Analytics 2018 at GMIT.
 
 ## Weeks 1 & 2 tasks file is called fibname.py
 ## Week 3 task file is called Collatz.py
